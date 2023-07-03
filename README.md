@@ -27,4 +27,4 @@ Bomb Lab
 
 ## *PA4* (116/100)
 
-Simulating Circuits
+Simulating Circuits using logic gates
